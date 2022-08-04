@@ -1,0 +1,10 @@
+div,
+section,
+article {
+  box-sizing: border-box;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
