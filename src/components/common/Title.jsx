@@ -9,4 +9,5 @@ const TitleText = styled.h2`
   color: #222;
   font-weight: 700;
   font-size: 26px;
+  margin-bottom: 25px;
 `;

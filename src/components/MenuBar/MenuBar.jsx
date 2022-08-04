@@ -38,13 +38,11 @@ const Box = styled.div`
   height: 50px;
   padding: 0 5px;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
-  /* @media screen and (min-width: 980px) {
-    margin: 0 calc(0px - (100vw - 980px) / 2);
-  } */
   display: flex;
   justify-content: space-between;
   padding: 0 calc((100vw - 980px) / 2);
   border-bottom: 2px solid red;
+  position: sticky;
 `;
 
 const MenuList = styled.ul`
